@@ -1,3 +1,5 @@
+# >= 1 pkt
+
 from e2_ex2_testy import runtests
 from math import ceil, sqrt
 

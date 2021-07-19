@@ -1,3 +1,5 @@
+# 2 pkt
+
 from k1_ex3_testy import runtests
 
 

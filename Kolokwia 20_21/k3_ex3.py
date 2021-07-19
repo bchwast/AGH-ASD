@@ -1,3 +1,5 @@
+# 2 pkt
+
 from k3_ex3_testy import runtests
 from k3_ex3_EK import edmonds_karp
 

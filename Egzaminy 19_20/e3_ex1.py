@@ -1,3 +1,5 @@
+# >= 1 pkt
+
 from e3_ex1_testy import runtests
 from queue import Queue
 

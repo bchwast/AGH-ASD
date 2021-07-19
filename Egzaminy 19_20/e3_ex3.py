@@ -1,3 +1,5 @@
+# 2 pkt
+
 from e3_ex3_testy import runtests
 from queue import PriorityQueue
 

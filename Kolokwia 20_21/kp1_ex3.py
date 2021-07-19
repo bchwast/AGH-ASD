@@ -1,3 +1,5 @@
+# 2 pkt
+
 # f(i, j) - najmniejsza liczba tankowań potrzebnych, żeby dotrzeć do i-tej stacji mając na niej j litrów paliwa w baku
 
 # f(i, j) = inf     ; j > q or j < 0

@@ -1,3 +1,5 @@
+# >= 1 pkt
+
 # f(u, i) = max(f(u.left, i - 1) + lval, f(u.right, i - 1) + rval,
 #               max(f(u.left, i - 2 - d) + f(u.right, d) + lval + rval) (d in 0 ... i - 2) )
 

@@ -1,3 +1,5 @@
+# 2 pkt
+
 from e1_ex3_testy import runtests
 from math import log
 

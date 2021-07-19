@@ -1,3 +1,5 @@
+# 2 pkt
+
 from k3_ex1_testy import runtests
 from collections import deque
 

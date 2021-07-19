@@ -1,4 +1,7 @@
+# 2 pkt
+
 from kp2_ex1_testy import runtests
+
 
 def partition(T, low, high):
     pivot = T[high][0][0]

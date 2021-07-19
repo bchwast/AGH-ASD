@@ -1,4 +1,7 @@
+# >= 1 pkt
+
 from kp1_ex2_testy import runtests
+
 
 class FastListNode:
     def __init__(self, a):

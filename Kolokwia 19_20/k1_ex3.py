@@ -1,3 +1,5 @@
+# 2 pkt
+
 def partition(T, low, high):
     pivot = T[high]
     i = low - 1

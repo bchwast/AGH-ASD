@@ -1,3 +1,5 @@
+# 1 pkt
+
 from k2_ex2_testy import runtests
 from collections import deque
 
@@ -32,7 +34,6 @@ def bfs(G, s, t, a, b):
 
 
 def enlarge(G, s, t):
-    n = len(G)
     best, route = bfs(G, s, t, float("inf"), float("inf"))
     if best == -1:
         return None

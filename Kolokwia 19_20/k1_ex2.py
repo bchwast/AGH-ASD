@@ -1,3 +1,5 @@
+# 2 pkt
+
 from random import randint
 
 def partition(T, low, high, pivotInd):

@@ -1,4 +1,7 @@
+# >= 1 pkt
+
 from kp1_ex3_testy import runtests
+
 
 class BSTNode:
     def __init__(self, key):

@@ -1,3 +1,5 @@
+# 2 pkt
+
 def times(T):
     details = [[0, 0, T[i]] for i in range(len(T))]
     values = [0]*10
