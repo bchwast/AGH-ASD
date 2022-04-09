@@ -1,7 +1,5 @@
 # ASD
 
-Zadania z ćwiczeń, zajęć BIT Algo, kolokwiów oraz egzaminów z roku 2020/21 oraz część z poprzednich lat
+Exercises from Algorithms and Data Structures classes, tests and exams from 2020/21 year and some previous years as well
 
-Większość zadań z kolokwiów i egzaminów warta 2pkt, część warta 1/1.5pkt
-
-Treści zadań z kolokwiów i egzaminów dostępne na wiki
+Most of the solutions are worth 2pts/2pts but some of them are suboptimal and worth a few points less
